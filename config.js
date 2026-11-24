@@ -61,7 +61,7 @@ window.CONFIG = {
   // posicao: ajuste pelo editor visual (?editor=1), escolhendo “PIX (copiar chave)”.
   pix: {
     ativo: true,
-    chave: "71983855566",
+    chave: "05689338001",
     posicao: {"left":23.34312475039936,"top":50.99654886232034,"width":53.32267434604633,"height":4.977906573192977}
   },
 
