@@ -34,6 +34,9 @@ window.CONFIG = {
     mensagem: "Olá! Confirmo minha presença no aniversário da Lohanna."
   },
 
+  // Limite de convidados por confirmação.
+  confirmacao: { maxPessoas: 10 },
+
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
   // Link completo do Google Maps. Abra o local no Maps, clique em "Compartilar"
   // -> "Copiar link" e cole aqui (mantenha as aspas).
